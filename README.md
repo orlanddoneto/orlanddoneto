@@ -3,7 +3,8 @@
 <p align="center">
   💻 Estudante de Ciência da Computação na UFMA <br>
   🚀 Apaixonado por desenvolvimento de software, dados e inovação <br>
-  📚 Sempre aprendendo algo novo
+  📚 Estudante da Bíblia Sagrada
+  
 </p>
 
 ---
