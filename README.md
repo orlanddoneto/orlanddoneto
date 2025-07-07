@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Orlando Neto, seja bem-vindo ao meu perfil no github</h1>
+<h1 align="center">Olá! 👋 Eu sou o Orlando Neto, seja bem-vindo!</h1>
 
 <p align="center">
   💻 Estudante de Ciência da Computação na UFMA <br>
